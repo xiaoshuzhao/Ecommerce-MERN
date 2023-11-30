@@ -20,8 +20,8 @@
 
 ## Usage
 
-- Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
-- Create a PayPal account and obtain your `Client ID` - [PayPal Developer](https://developer.paypal.com/)
+- Create a MongoDB database and obtain  `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
+- Create a PayPal account and obtain  `Client ID` - [PayPal Developer](https://developer.paypal.com/)
 
 ### Env Variables
 
@@ -64,9 +64,9 @@ cd frontend
 npm run build
 ```
 
-### Seed Database
+### Set Database
 
-You can use the following commands to seed the database with some sample users and products as well as destroy all data
+You can use the following commands to set the database with some sample users and products as well as destroy all data
 
 ```
 # Import data
@@ -84,5 +84,4 @@ admin@email.com (Admin)
 ```
 
 ---
-
 
